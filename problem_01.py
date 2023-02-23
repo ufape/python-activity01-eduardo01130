@@ -5,6 +5,7 @@
 # Problem Set 1 - Problem 1
 # Description:
 
+
 """
 Inputs, Processes and Output (IPO)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -20,7 +21,7 @@ Hello, World!
 
 
 def main():
-    pass # your code here
+    print("Hello, World!")
 
 
 if __name__ == '__main__':
